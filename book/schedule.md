@@ -1,4 +1,4 @@
-## Schedule (July/August 2021)
+## Alex Cline
 
 **Week 1**
 
