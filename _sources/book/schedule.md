@@ -3,7 +3,7 @@
 **Part 1**
 
 Introduction to Jupyter Notebooks and Python:
-* [Python and Jupyter Basics](../jupyter-python-basics.ipynb)
+* [Python and Jupyter Basics](../GettingStartedwithPython.ipynb)
 
 **Part 2**
 
